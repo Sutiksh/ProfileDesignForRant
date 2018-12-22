@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="user">User</string>
+    <string name="followers">Followers</string>
+    <string name="follow_count">10m</string>
+    <string name="following_count">450</string>
+    <string name="following">Following</string>
+    <string name="email_add">verma.sutiksh27@gmail.com</string>
+    <string name="phoneno">+917043944785</string>
+    <string name="add_as_friend">Add As Friend</string>
+    <string name="show_all_comments">Show All Comments</string>
+</resources>
